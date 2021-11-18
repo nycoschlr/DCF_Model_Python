@@ -16,3 +16,10 @@ Our Python code is divided in two parts.
 The first part is all about coding the GUI, creating elements and placing them on the screen.
 
 The second part is all about the implementation of two functions. The first function is about retrieving stock information. The second function is about calculating the intrinsic value.
+
+
+
+Our valuation is based on a simple discounted free cash flow model.
+Below is a screenshot of the excel calculation:
+
+![Capture1](https://user-images.githubusercontent.com/74419188/142503214-0f1983b6-3a1c-4954-ad64-7d109a3a2163.JPG)
