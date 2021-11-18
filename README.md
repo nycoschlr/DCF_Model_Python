@@ -2,7 +2,7 @@
 
 For this project, we tried to find an easier solution to value company. We propose an automated python graphical user interface (GUI) that does all the heavy work for us.
 
-Our coding project uses financial data from an application programming interface (API) and then computes the value of the company based on the assumptions the user enters. Our GUI allows the user the enter the ticker symbol of the company he wants to value.
+Our coding project uses financial data from an application programming interface (API) and then computes the value of the company based on the assumptions the user enters. Our GUI allows the user the enter the ticker symbol of the company he/she wants to value.
 
 As a final step, the intrinsic value is display on the GUI and compared to today’s stock price.
 
