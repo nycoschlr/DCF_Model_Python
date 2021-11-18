@@ -1,4 +1,4 @@
-# DCF_Model_Python
+# Welcome to our DCF Model in Python!
 
 For this project, we tried to find an easier solution to value company. We propose an automated python graphical user interface (GUI) that does all the heavy work for us.
 
