@@ -7,7 +7,7 @@ Our coding project uses financial data from an application programming interface
 As a final step, the intrinsic value is display on the GUI and compared to today’s stock price.
 
 Below you can find a screenshot of our GUI.
-
+![Capture](https://user-images.githubusercontent.com/74419188/142502679-ee3e5957-9a0b-4812-bd5e-c26770d6c295.JPG)
 
 
 
