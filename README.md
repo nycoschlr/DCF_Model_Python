@@ -12,7 +12,7 @@ Below you can find a screenshot of our GUI.
 
 
 
-Our Python code is divided in two parts.
+Our Python code is divided in two parts. Our full Python code can be found under the .py file or under the PDF version.
 
 The first part is all about coding the GUI, creating elements and placing them on the screen.
 
