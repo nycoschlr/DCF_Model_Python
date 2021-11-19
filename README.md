@@ -35,3 +35,15 @@ Our valuation is based on a simple discounted free cash flow model.
 Below is a screenshot of the excel calculation:
 
 ![Capture1](https://user-images.githubusercontent.com/74419188/142503214-0f1983b6-3a1c-4954-ad64-7d109a3a2163.JPG)
+
+
+## References
+
+Financial Data for every needs. Financial Modeling Prep. (n.d.). Retrieved November 17, 2021, from https://site.financialmodelingprep.com/developer. 
+
+Jennergren, L. P. (2008). Continuing value in firm valuation by the discounted cash flow model. European Journal of Operational Research, 185(3), 1548-1563.
+
+SAVING TIME: Scraping Financial Data. Published by Spencer Tao. Retrieved from https://www.youtube.com/watch?v=GGgNM7WanK8. 
+
+Tkinter Course - Create Graphic User Interfaces in Python Tutorial. Published by freeCodeCamp.org. Retrieved from https://www.youtube.com/watch?v=YXPyB4XeYLA&list=LL&index=6. 
+
