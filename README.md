@@ -16,7 +16,7 @@ Below you can find a screenshot of our GUI.
 
 ## Our Python Code
 
-Our full Python code can be found under the ValuationModel.py file or under the PDF version.
+Our full Python code can be found under the ValuationModel.py file or under the PDF version Python_Code_PDF.pdf.
 Our Python code is divided in two parts.
 
 1) The first part is all about coding the GUI, creating elements and placing them on the screen.
