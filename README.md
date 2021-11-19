@@ -8,6 +8,8 @@ Our coding project uses financial data from an application programming interface
 
 As a final step, the intrinsic value is display on the GUI and compared to today’s stock price.
 
+You can find the full documentation of our group project under the pdf file "Group_99_Report_Valuation_Model.pdf"
+
 ## The Final Result
 Below you can find a screenshot of our GUI.
 ![Capture](https://user-images.githubusercontent.com/74419188/142504166-27f1afb3-30ea-4409-b10d-61b98778a135.JPG)
