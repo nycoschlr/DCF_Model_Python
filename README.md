@@ -43,9 +43,12 @@ Below is a screenshot of the excel calculation:
 
 Financial Data for every needs. Financial Modeling Prep. (n.d.). Retrieved November 17, 2021, from https://site.financialmodelingprep.com/developer. 
 
+Value investing: Market insight of investment gurus. Value Investing | Market Insight of Investment Gurus. (n.d.). Retrieved November 19, 2021, from https://www.gurufocus.com/new_index/. 
+
 Jennergren, L. P. (2008). Continuing value in firm valuation by the discounted cash flow model. European Journal of Operational Research, 185(3), 1548-1563.
 
 SAVING TIME: Scraping Financial Data. Published by Spencer Tao. Retrieved from https://www.youtube.com/watch?v=GGgNM7WanK8. 
 
 Tkinter Course - Create Graphic User Interfaces in Python Tutorial. Published by freeCodeCamp.org. Retrieved from https://www.youtube.com/watch?v=YXPyB4XeYLA&list=LL&index=6. 
+
 
